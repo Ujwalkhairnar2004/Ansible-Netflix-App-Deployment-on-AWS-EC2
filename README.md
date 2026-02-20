@@ -136,7 +136,7 @@ Application accessible via EC2 public IP
 
 You can watch the deployment process in the following videos:
 
-
+https://github.com/user-attachments/assets/c7c09650-e5c7-4728-8ef8-806b3ddfae30
 
 👨‍💻 Author
 
